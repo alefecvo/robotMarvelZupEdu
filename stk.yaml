@@ -1,0 +1,8 @@
+applied_templates:
+- inputs: {}
+  template_data_path: robot-mobile-stackspot/template-mobile-robot
+global_computed_inputs: {}
+global_inputs:
+  project_name: robotMarvelZupEdu
+stack: robot-mobile-stackspot
+stack_type: app
